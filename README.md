@@ -2,6 +2,7 @@
 
 Welcome to the Todo App! This project is a modern, responsive to-do list application built with **React** and **TypeScript**. It features task creation, editing, deletion, task fetching from a placeholder API, pagination, and local storage persistence.
 
+# DEMO: https://Fetrw.github.io/taskApp/
 ---
 
 ## 🚀 **Features**
